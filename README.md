@@ -45,7 +45,7 @@ QtCore
 ## Установка
 Для установки и запуска проекта выполните следующие команды:
 ```bash
-git clone https://github.com/gleb7499/course_project_4_term.git
+git clone https://github.com/gleb7499/course_project_3_term.git
 ```
 
 ## Использование
